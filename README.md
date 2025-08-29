@@ -1,5 +1,9 @@
 # IT-INCUBATOR Todolist Project
 
+## Login + Password
+Login: arsenasavets@gmail.com
+Password: 1111111111
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite.
